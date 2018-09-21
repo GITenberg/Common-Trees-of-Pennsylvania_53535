@@ -5,6 +5,9 @@ contributor:
     agent_name: Francis, J. M.
     gutenberg_agent_id: '47422'
     url: http://www.gutenberg.org/2009/agents/47422
+covers:
+- cover_type: archival
+  image_path: 53535-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Morris, C. L.
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '47418'
     url: http://www.gutenberg.org/2009/agents/47418
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53535#Common-Trees-of-Pennsylvania
 gutenberg_issued: '2016-11-16'
 gutenberg_type: Text
 identifiers:
