@@ -1,0 +1,38 @@
+_repo: Common-Trees-of-Pennsylvania_53535
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Francis, J. M.
+    gutenberg_agent_id: '47422'
+    url: http://www.gutenberg.org/2009/agents/47422
+creator:
+  authors:
+  - agent_name: Morris, C. L.
+    gutenberg_agent_id: '47421'
+    url: http://www.gutenberg.org/2009/agents/47421
+  - agent_name: Mickalitis, A. B.
+    gutenberg_agent_id: '47419'
+    url: http://www.gutenberg.org/2009/agents/47419
+  - agent_name: Aughenbaugh, J. E.
+    gutenberg_agent_id: '47420'
+    url: http://www.gutenberg.org/2009/agents/47420
+  - agent_name: Ibberson, Joseph E.
+    alias: Ibberson, J. E. (Joseph E.)
+    birthdate: 1917
+    gutenberg_agent_id: '47418'
+    url: http://www.gutenberg.org/2009/agents/47418
+description: ''
+gutenberg_issued: '2016-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trees -- Pennsylvania'
+- !lcc 'QK'
+- GITenberg
+title: Common Trees of Pennsylvania
+url: http://www.gutenberg.org/ebooks/53535
